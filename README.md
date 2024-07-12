@@ -2,27 +2,18 @@
 
 ## About this Repository
 
-Welcome! This repository contains all my files related to the **Advanced Learning Algorithms** course by Andrew Nj. You’ll find course notes, assignments, projects, and my resume.
+Welcome! This repository contains all my files related to the **Advanced Learning Algorithms** course by Andrew Nj. You’ll find course notes, assignments, and Optional labs.
 
 ## Contents
 
 1. **Course Notes** 📝
 2. **Assignments** 📊
 3. **Projects** 🚀
-4. **Resume** 📄
-
-## How to Navigate
-
-- **Course Notes**: `notes` folder
-- **Assignments**: `assignments` folder
-- **Projects**: `projects` folder
-- **Resume**: Root directory (`resume.pdf`)
 
 ## Get in Touch
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: p.porkhial@gmail.com
+- **LinkedIn**: Parham porkhial
 
 ## Fun Facts
 
@@ -30,6 +21,3 @@ Welcome! This repository contains all my files related to the **Advanced Learnin
 - 💡 Real-world inspired projects
 - 🌟 Contributions welcome!
 
----
-
-Happy Learning! 🚀
